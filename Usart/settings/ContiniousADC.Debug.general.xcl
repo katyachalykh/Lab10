@@ -1,0 +1,15 @@
+"D:\Проги для учебы\arm\bin\armproc.dll" 
+
+"D:\Проги для учебы\arm\bin\armstlink2.dll" 
+
+"C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\Usart\Debug\Exe\ContiniousADC.out" 
+
+--plugin="D:\Проги для учебы\arm\bin\armbat.dll" 
+
+--device_macro="D:\Проги для учебы\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader="D:\Проги для учебы\arm\config\flashloader\ST\FlashSTM32F411xE.board" 
+
+
+
+
